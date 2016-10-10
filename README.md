@@ -1,2 +1,2 @@
-# aepira_abrol_hw02
+# arpita_abrol_hw02
 Work 2: enlist your coding skills
